@@ -1,0 +1,11 @@
+Embedding Model,Generative Model,Avg. Words,Keyword Match (%),Frames with Numbers (%),Frames with Currency (%),Article References (%),Field Fill Rate (%),Avg. Time per Case (s)
+legal-bert-dutch-english,Llama-3.1-8B-ArliAI-Formax-v1.0,37.68,33.11,59.46,10.81,18.92,100.00,53.42
+legal-bert-dutch-english,GEITje-7B-ultra,52.25,65.62,81.25,6.25,37.50,100.00,110.39
+legal-bert-dutch-english,fietje-2b-chat,33.45,67.50,65.00,5.00,10.00,75.00,96.03
+legal-bert-dutch-english,Llama-3-8B-dutch,50.00,6.25,0.00,0.00,0.00,100.00,111.59
+legal-bert-dutch-english,Mistral-7B-Instruct-v0.1,44.74,36.43,68.57,8.57,20.00,100.00,101.14
+robbert-v2-dutch-base,Llama-3.1-8B-ArliAI-Formax-v1.0,35.44,42.65,50.00,11.76,5.88,100.00,54.86
+robbert-v2-dutch-base,GEITje-7B-ultra,52.33,64.58,75.00,16.67,25.00,100.00,110.72
+robbert-v2-dutch-base,fietje-2b-chat,25.92,63.46,38.46,0.00,0.00,84.62,97.49
+robbert-v2-dutch-base,Llama-3-8B-dutch,50.00,6.25,0.00,0.00,0.00,100.00,111.60
+robbert-v2-dutch-base,Mistral-7B-Instruct-v0.1,47.48,51.52,78.79,6.06,24.24,100.00,90.39

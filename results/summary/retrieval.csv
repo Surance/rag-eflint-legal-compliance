@@ -1,0 +1,3 @@
+Embedding Model,Mean Top-1 Retrieval Score,Std Top-1 Retrieval Score
+legal-bert-dutch-english,0.6543,0.0215
+robbert-v2-dutch-base,0.7172,0.0213

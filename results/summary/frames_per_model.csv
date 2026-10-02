@@ -1,0 +1,11 @@
+Embedding Model,Generative Model,Unique Frames (4 test cases)
+legal-bert-dutch-english,Llama-3.1-8B-ArliAI-Formax-v1.0,37
+legal-bert-dutch-english,GEITje-7B-ultra,16
+legal-bert-dutch-english,fietje-2b-chat,20
+legal-bert-dutch-english,Llama-3-8B-dutch,4
+legal-bert-dutch-english,Mistral-7B-Instruct-v0.1,35
+robbert-v2-dutch-base,Llama-3.1-8B-ArliAI-Formax-v1.0,34
+robbert-v2-dutch-base,GEITje-7B-ultra,12
+robbert-v2-dutch-base,fietje-2b-chat,13
+robbert-v2-dutch-base,Llama-3-8B-dutch,4
+robbert-v2-dutch-base,Mistral-7B-Instruct-v0.1,33

@@ -1,0 +1,105 @@
+{
+  "_description": "Top-10 chunk IDs retrieved per embedder and test case in the final experiment run.",
+  "retrieved": {
+    "Gerwin/legal-bert-dutch-english": {
+      "TC01": [
+        "chunk_183",
+        "chunk_020",
+        "chunk_137",
+        "chunk_174",
+        "chunk_163",
+        "chunk_135",
+        "chunk_119",
+        "chunk_078",
+        "chunk_096",
+        "chunk_148"
+      ],
+      "TC02": [
+        "chunk_142",
+        "chunk_044",
+        "chunk_197",
+        "chunk_048",
+        "chunk_137",
+        "chunk_051",
+        "chunk_049",
+        "chunk_052",
+        "chunk_141",
+        "chunk_037"
+      ],
+      "TC03": [
+        "chunk_142",
+        "chunk_137",
+        "chunk_058",
+        "chunk_197",
+        "chunk_073",
+        "chunk_072",
+        "chunk_020",
+        "chunk_173",
+        "chunk_074",
+        "chunk_003"
+      ],
+      "TC04": [
+        "chunk_037",
+        "chunk_158",
+        "chunk_197",
+        "chunk_148",
+        "chunk_128",
+        "chunk_132",
+        "chunk_174",
+        "chunk_204",
+        "chunk_137",
+        "chunk_141"
+      ]
+    },
+    "pdelobelle/robbert-v2-dutch-base": {
+      "TC01": [
+        "chunk_020",
+        "chunk_173",
+        "chunk_003",
+        "chunk_163",
+        "chunk_119",
+        "chunk_036",
+        "chunk_148",
+        "chunk_100",
+        "chunk_100",
+        "chunk_074"
+      ],
+      "TC02": [
+        "chunk_142",
+        "chunk_049",
+        "chunk_052",
+        "chunk_044",
+        "chunk_048",
+        "chunk_051",
+        "chunk_003",
+        "chunk_020",
+        "chunk_141",
+        "chunk_037"
+      ],
+      "TC03": [
+        "chunk_142",
+        "chunk_062",
+        "chunk_061",
+        "chunk_060",
+        "chunk_148",
+        "chunk_072",
+        "chunk_073",
+        "chunk_020",
+        "chunk_098",
+        "chunk_074"
+      ],
+      "TC04": [
+        "chunk_037",
+        "chunk_158",
+        "chunk_197",
+        "chunk_128",
+        "chunk_148",
+        "chunk_204",
+        "chunk_132",
+        "chunk_174",
+        "chunk_135",
+        "chunk_178"
+      ]
+    }
+  }
+}

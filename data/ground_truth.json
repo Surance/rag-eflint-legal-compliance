@@ -1,0 +1,53 @@
+{
+  "_description": "Manually annotated relevant chunks per test case (chunk_NNN = position in the cleaned chunk list, see scripts/export_chunks_for_annotation.py). Annotated by a non-legal expert.",
+  "ground_truth": {
+    "TC01": [
+      "chunk_034",
+      "chunk_035",
+      "chunk_112",
+      "chunk_119",
+      "chunk_120",
+      "chunk_122",
+      "chunk_095",
+      "chunk_077",
+      "chunk_115",
+      "chunk_116"
+    ],
+    "TC02": [
+      "chunk_011",
+      "chunk_012",
+      "chunk_013",
+      "chunk_014",
+      "chunk_015",
+      "chunk_048",
+      "chunk_049",
+      "chunk_069",
+      "chunk_070",
+      "chunk_131"
+    ],
+    "TC03": [
+      "chunk_016",
+      "chunk_017",
+      "chunk_018",
+      "chunk_058",
+      "chunk_059",
+      "chunk_062",
+      "chunk_074",
+      "chunk_071",
+      "chunk_130",
+      "chunk_131"
+    ],
+    "TC04": [
+      "chunk_010",
+      "chunk_037",
+      "chunk_126",
+      "chunk_155",
+      "chunk_156",
+      "chunk_157",
+      "chunk_158",
+      "chunk_160",
+      "chunk_148",
+      "chunk_124"
+    ]
+  }
+}
