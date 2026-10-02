@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rag-flint"
+version = "1.0.0"
+description = "RAG pipeline that turns Dutch subsidy law into structured FLINT frames with open-source LLMs"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Jimmy Tebben" }]
+dependencies = [
+    "numpy",
+    "pandas",
+    "tqdm",
+]
+
+[project.optional-dependencies]
+# Needed to run the experiments (GPU recommended).
+pipeline = [
+    "torch",
+    "transformers",
+    "accelerate",
+    "bitsandbytes",
+    "faiss-cpu",
+    "huggingface_hub",
+]
+# Needed to compute the metrics and figures.
+evaluation = [
+    "matplotlib",
+    "seaborn",
+    "langdetect",
+]
+dev = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
